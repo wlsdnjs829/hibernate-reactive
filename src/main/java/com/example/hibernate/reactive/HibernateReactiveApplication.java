@@ -1,4 +1,4 @@
-package com.example.hibernatereactive;
+package com.example.hibernate.reactive;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
